@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Auto2ML</title>
-</head>
-
 <body>
 <h1>Auto<sup>2</sup>ML</h1>
 
