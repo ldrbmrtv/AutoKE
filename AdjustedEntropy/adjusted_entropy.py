@@ -12,10 +12,10 @@ def inf(prob):
 def entr(part):
     return entropy(part, base = 2)
 
-def adj(p, mean_entr, max_entr):
-    return (entr(p) - mean_entr)/(max_entr - mean_entr)
+def adj(part, mean_entr, max_entr):
+    return (entr(part) - mean_entr)/(max_entr - mean_entr)
 
-def adj_entr(y):
+def adjusted_entropy(y):
     n = len(y)
     p = part(y)
     k = len(p)
