@@ -1,61 +1,36 @@
-<h1>Автоматическое машинное обучение без учителя</h1>
+<h1>AutoKE: Automated knowledge extraction</h1>
 
-<p>На <b>сегодняшний день</b> машинное обучение является одной из наиболее актуальных информационных технологий. Среди современных методов наибольшую практическую применимость показывает обучение <em>с учителем</em>. Однако оно имеет существенные ограничения, требуются</p>
+Today machine learning is one of the most relevant information technologies. Among modern methods, supervised learning shows the highest practical applicability. However, it has significant limitations, including</p>
 <ul>
-  <li>большие выборки размеченных данных;</li>
-  <li>специалист, проектирующий пайплайн обучения.</li>
+  <li>need for large samples of labeled data</li>
+  <li>need for an expert designing learning pipelines</li>
+  <li>insufficient inerpretability of learning results</li>
 </ul>
-Это препятствует повсеместному проникновению машинного обучения в индустрию и наступлению новой технологической эры.
+This prevents the widespreading of intellectual technologies and the advent of Industry 4.0.
 <hr>
   
-<p>Мы развиваем <b>технологии,</b> позволяющие преодолеть эти ограничения:</p>
+<p>AutoKE project is aimed at overcoming these limitations based on technologies:</p>
 <ul>
-  <li>обучение без учителя;</li>
-  <li>автоматическое машинное обучение;</li>
-  <li>мета-обучение;</li>
-  <li>сильный искусственный интеллект и т.д.</li>
+  <li>unsupervised learning</li>
+  <li>automated machine learning</li>
+  <li>ontology learning</li>
 </ul>
-Наша <b>миссия</b> - создание интеллектуальных технологий нового поколения, способных решать на порядок более сложные задачи, чем позволяют возможности современного ИИ, для улучшения жизни каждого человека и общества в целом.
+Our mission is the creation of intelligent technologies of a new generation, capable of solving more complex problems than the capabilities of modern AI allow.
 <hr>
 
-<p>Наши <b>задачи:</b></p>
+<p>Our tasks:</p>
 <ul>
-  <li>подготовка специалистов, обладающих набором знаний и навыков, которые предвосхищают потребности рынка;</li>
-  <li>разработка уникальных программных продуктов, реализующих результаты передовых научных исследований;</li>
-  <li>получение фундаментальных теоретических результатов в области Computer Science;</li>
-  <li>демократизация интеллектуальных технологий.</li>
+  <li>development of software products and systems that democratize intelligent technologies</li>
+  <li>obtaining fundamental theoretical results in the field of Computer Science and Artificail Intelligence</li>
 </ul>
 <hr>
 
-<p>Примеры наших <b>исследований:</b></p>
+<p>Examples of our research:</p>
 <ul>
-  <li>автоматизация обучения признакам на основе информационных критериев;</li>
-  <li>поиск архитектуры нейронных сетей на основе информационных критериев;</li>
-  <li>метод регуляризации на основе комплексной оценки информативности;</li>
-  <li>ускорение мета-обучения на основе априорных информационных критериев.</li>
+  <li>regularizing clustering models with adjusted entropy</li>
+  <li>accelerating hyper-parameter optimization in clustering based on prior information criteria</li>
+  <li>automated clustering model selection for ontology learning</li>
 </ul>
 <hr>
 
-<p>Наши перспективные <b>разработки:</b></p>
-<ul>
-  <li>ITMO.Auto2ML - система автоматизированного машинного обучения без учителя;</li>
-  <li>Logic graphs - система автоматизированного семантико-ориентированного проектирования баз знаний.</li>
-</ul>
-<hr>
-
-<p>Вступив в нашу команду, ты примешь участие в</p>
-<ul>
-  <li>жизни научного сообщества;</li>
-  <li>написании публикаций для передовых изданий;</li>
-  <li>разработке инновационных технологий, которые завтра могут изменить мир.</li>
-</ul>
-<hr>
-
-<p><b>Пожелания</b> к кандидатам:</p>
-<ul>
-  <li>уверенное знание дискретной математики и математической статистики;</li>
-  <li>навыки использования библиотек машинного обучения, таких как Scikit-learn и Keras.</li>
-</ul>
-<hr>
-
-<p>Контакты: <a href="https://edu.itmo.ru/teacher/224068/">Ильдар Баймуратов</a>, baimuratov.i@gmail.com</p>
+<p>Contacts: Ildar Baimuratov, baimuratov.i@gmail.com</p>
