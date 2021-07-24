@@ -1,12 +1,12 @@
 <h1>AutoKE: Automated knowledge extraction</h1>
 
-Today machine learning is one of the most relevant information technologies. Among modern methods, supervised learning shows the highest practical applicability. However, it has significant limitations, including</p>
+<p>Today machine learning is one of the most relevant information technologies. Among modern methods, supervised learning shows the highest practical applicability. However, it has significant limitations, including</p>
 <ul>
   <li>need for large samples of labeled data</li>
   <li>need for an expert designing learning pipelines</li>
   <li>insufficient inerpretability of learning results</li>
 </ul>
-This prevents the widespreading of intellectual technologies and the advent of Industry 4.0.
+<p>This prevents the widespreading of intellectual technologies and the advent of Industry 4.0.</p>
 <hr>
   
 <p>AutoKE project is aimed at overcoming these limitations based on technologies:</p>
@@ -15,7 +15,7 @@ This prevents the widespreading of intellectual technologies and the advent of I
   <li>automated machine learning</li>
   <li>ontology learning</li>
 </ul>
-Our mission is the creation of intelligent technologies of a new generation, capable of solving more complex problems than the capabilities of modern AI allow.
+<p>Our mission is the creation of intelligent technologies of a new generation, capable of solving more complex problems than the capabilities of modern AI allow.</p>
 <hr>
 
 <p>Our tasks:</p>
