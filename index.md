@@ -28,7 +28,7 @@
 <p>Examples of our research:</p>
 <ul>
   <li>regularizing clustering models with adjusted entropy</li>
-  <li>accelerating hyper-parameter optimization in clustering based on prior information criteria</li>
+  <li>accelerating hyper-parameter optimization in clustering based on objective prior information criteria</li>
   <li>automated clustering model selection for ontology learning</li>
 </ul>
 <hr>
