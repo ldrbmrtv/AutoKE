@@ -1,4 +1,4 @@
-<h1>AutoKE: Automated knowledge extraction</h1>
+<h1>AutoKE: Automated Knowledge Extraction</h1>
 
 <p>Today machine learning is one of the most relevant information technologies. Among modern methods, supervised learning shows the highest practical applicability. However, it has significant limitations, including</p>
 <ul>
