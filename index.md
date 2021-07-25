@@ -41,4 +41,4 @@
 </ul>
 <hr>
 
-<p>Contacts: Ildar Baimuratov, baimuratov.i@gmail.com</p>
+<p>Contacts: <a href="https://scholar.google.com/citations?user=aG08GegAAAAJ&hl=en">Ildar Baimuratov</a>, baimuratov.i@gmail.com</p>
